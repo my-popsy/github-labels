@@ -1,10 +1,5 @@
 [
   {
-    "name": "good first issue",
-    "color": "7057ff",
-    "description": "Good for newcomers"
-  },
-  {
     "name": "help wanted",
     "color": "008672",
     "description": "Extra attention is needed"
@@ -35,6 +30,21 @@
     "description": ""
   },
   {
+    "name": "status: mockup needed",
+    "color": "48EBB9",
+    "description": ""
+  },
+  {
+    "name": "status: not reproduced",
+    "color": "AA00BA",
+    "description": ""
+  },
+  {
+    "name": "status: reproduced",
+    "color": "AAFFBA",
+    "description": ""
+  },
+  {
     "name": "status: confirmed",
     "color": "215cea",
     "description": ""
@@ -60,7 +70,7 @@
     "description": "Something isn't working"
   },
   {
-    "name": "type: discussion",
+    "name": "type: refactoring",
     "color": "d4c5f9",
     "description": ""
   },
@@ -80,7 +90,7 @@
     "description": "A theme of work that contain sub-tasks"
   },
   {
-    "name": "type: feature request",
+    "name": "type: feature",
     "color": "fbca04",
     "description": "New feature or request"
   },
