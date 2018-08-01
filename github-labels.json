@@ -6,22 +6,22 @@
   },
   {
     "name": "priority: critical",
-    "color": "b60205",
+    "color": "000000",
     "description": ""
   },
   {
     "name": "priority: high",
-    "color": "d93f0b",
+    "color": "A7061E",
     "description": ""
   },
   {
     "name": "priority: low",
-    "color": "0e8a16",
+    "color": "17601C",
     "description": ""
   },
   {
     "name": "priority: medium",
-    "color": "fbca04",
+    "color": "A7061E",
     "description": ""
   },
   {
