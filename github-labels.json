@@ -7,7 +7,7 @@
   {
     "name": "priority: critical",
     "color": "000000",
-    "description": ""
+    "description": "A task that's deserves stop wathever to work on this, usually this implies a hotfix to be released asap"
   },
   {
     "name": "priority: high",
