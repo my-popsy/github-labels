@@ -1,10 +1,5 @@
 [
   {
-    "name": "help wanted",
-    "color": "008672",
-    "description": "Extra attention is needed"
-  },
-  {
     "name": "priority: critical",
     "color": "000000",
     "description": "A task that's deserves stop wathever to work on this, usually this implies a hotfix to be released asap"
@@ -12,16 +7,11 @@
   {
     "name": "priority: high",
     "color": "A7061E",
-    "description": ""
+    "description": "Edge cases and issues impacting a small user base"
   },
   {
     "name": "priority: low",
     "color": "17601C",
-    "description": ""
-  },
-  {
-    "name": "priority: medium",
-    "color": "A7061E",
     "description": ""
   },
   {
@@ -45,24 +35,9 @@
     "description": ""
   },
   {
-    "name": "status: confirmed",
-    "color": "215cea",
-    "description": ""
-  },
-  {
-    "name": "status: duplicate",
-    "color": "cfd3d7",
-    "description": "This issue or pull request already exists"
-  },
-  {
-    "name": "status: needs information",
+    "name": "status: to be discussed",
     "color": "fef2c0",
     "description": ""
-  },
-  {
-    "name": "status: wont do/fix",
-    "color": "eeeeee",
-    "description": "This will not be worked on"
   },
   {
     "name": "type: bug",
