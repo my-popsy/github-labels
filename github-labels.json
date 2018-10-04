@@ -30,6 +30,16 @@
     "description": ""
   },
   {
+    "name": "status: waiting for backend",
+    "color": "bc1e59",
+    "description": ""
+  },
+  {
+    "name": "status: waiting for translations",
+    "color": "03d5bd",
+    "description": ""
+  },
+  {
     "name": "status: reproduced",
     "color": "AAFFBA",
     "description": ""
