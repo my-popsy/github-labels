@@ -83,5 +83,10 @@
     "name": "type: question",
     "color": "d876e3",
     "description": "Further information is requested"
+  },
+  {
+    "name": "type: workflow",
+    "color": "FFC05C",
+    "description": "Further information is requested"
   }
 ]
